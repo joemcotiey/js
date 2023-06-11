@@ -5,3 +5,7 @@
 //Using let
 //Using const
 
+
+x = 5;
+y = 6;
+z = x + y;
