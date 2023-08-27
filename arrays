@@ -5,6 +5,7 @@
 const array_name = [item1, item2, ...];
 
 //Formats
+//Format1
 //Spaces and line breaks are not important. A declaration can span multiple lines:
 
 /syntax
@@ -13,3 +14,6 @@ const cars = [
   "Volvo",
   "BMW"
 ];
+
+//Format2
+//You can also create an array, and then provide the elements:
