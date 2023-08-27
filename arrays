@@ -3,3 +3,6 @@
 
 //syntax
 const array_name = [item1, item2, ...];
+
+//Formats
+//Spaces and line breaks are not important. A declaration can span multiple lines:
