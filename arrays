@@ -17,3 +17,8 @@ const cars = [
 
 //Format2
 //You can also create an array, and then provide the elements:
+
+const cars = [];
+cars[0]= "Saab";
+cars[1]= "Volvo";
+cars[2]= "BMW";
