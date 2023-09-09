@@ -7,15 +7,3 @@ syntax
 new Date()
 new Date(date string)
 
-new Date(year,month)
-new Date(year,month,day)
-new Date(year,month,day,hours)
-new Date(year,month,day,hours,minutes)
-new Date(year,month,day,hours,minutes,seconds)
-new Date(year,month,day,hours,minutes,seconds,ms)
-
-new Date(milliseconds)
-
-#new Date() creates a date object with the current date and time:
-
-const d = new Date("October 13, 2014 11:13:00");
