@@ -23,3 +23,14 @@ cars[0]= "Saab";
 cars[1]= "Volvo";
 cars[2]= "BMW";
 
+//Format3
+//Using the JavaScript Keyword new
+//The following example also creates an Array, and assigns values to it:
+
+const cars = new Array("Saab", "Volvo", "BMW");
+
+//Accessing Array Elements
+//You access an array element by referring to the index number:
+
+const cars = ["Saab", "Volvo", "BMW"];
+let car = cars[0];
