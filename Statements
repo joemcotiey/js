@@ -1,6 +1,7 @@
 #JavaScript statements are composed of: Values, Operators, Expressions, Keywords, and Comments.
 #This statement tells the browser to write "Hello Dolly." inside an HTML element with id="demo":
 
+
 #code
 document.getElementById("demo").innerHTML = "Hello Dolly.";
 
