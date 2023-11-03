@@ -15,6 +15,7 @@ const cars = [
   "BMW"
 ];
 
+
 //Format2
 //You can also create an array, and then provide the elements:
 
