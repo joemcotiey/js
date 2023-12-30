@@ -2,7 +2,6 @@
 //Creating an Array
 //syntax
 
-
 const array_name = [item1, item2, ...];
 
 //Formats
