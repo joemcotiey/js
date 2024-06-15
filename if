@@ -2,6 +2,7 @@
 #Use the if statement to specify a block of JavaScript code to be executed if a condition is true.
 #Syntax
 
+
 if (condition) {
 
 
