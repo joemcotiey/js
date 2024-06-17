@@ -5,6 +5,7 @@
 
 syntax
 
+
 new Date()
 new Date(date string)
 
