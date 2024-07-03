@@ -3,6 +3,7 @@
 #JSON is a format for storing and transporting data.
 
 #JSONsyntax
+
 #This JSON syntax defines an employees object: an array of 3 employee records (objects):
 
 {
