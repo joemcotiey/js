@@ -2,6 +2,7 @@
 
 // A JavaScript string is zero or more characters written inside quotes.
 
+
 // syntax
 
 let carName1 = "Volvo XC60";  // Double quotes
