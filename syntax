@@ -2,6 +2,7 @@ JavaScript syntax is the set of rules, on how JavaScript programs are constructe
 
 // How to create variables:
 
+
 var x;
 
 let y;
