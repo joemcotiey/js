@@ -2,7 +2,6 @@
 JavaScript Display Possibilities
 JavaScript can "display" data in different ways:
 
-
 Writing into an HTML element, using innerHTML.
 Writing into the HTML output using document.write().
 
