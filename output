@@ -2,7 +2,8 @@
 
 //The id attribute defines the HTML element. The innerHTML property defines the HTML content:
 
-<!DOCTYPE html>
+<!DOCTYPE HTML>
+
 <html>
 <body>
 
