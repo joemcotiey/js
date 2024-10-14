@@ -1,5 +1,6 @@
 //
 JavaScript Display Possibilities
+
 JavaScript can "display" data in different ways:
 
 Writing into an HTML element, using innerHTML.
