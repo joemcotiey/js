@@ -15,6 +15,7 @@ const array_name = [item1, item2, ...];
 /syntax
 
 const cars = [
+
   "Saab",
   "Volvo",
   "BMW"
