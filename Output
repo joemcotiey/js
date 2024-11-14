@@ -11,6 +11,7 @@ Writing into an alert box, using window.alert().
 
 Writing into the browser console, using console.log().
 
+
 JavaScript Display Possibilities
 
 JavaScript can "display" data in different ways:
