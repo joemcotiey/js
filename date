@@ -24,4 +24,5 @@ new Date(year,month,day,hours,minutes,seconds,ms)
 new Date(milliseconds)
 
 #new Date() creates a date object with the current date and time:
+
 const d = new Date("October 13, 2014 11:13:00");
