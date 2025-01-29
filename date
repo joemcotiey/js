@@ -6,6 +6,7 @@
 syntax
 
 new Date()
+
 new Date(date string)
 
 new Date(year,month)
