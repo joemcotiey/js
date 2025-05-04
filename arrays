@@ -4,7 +4,6 @@
 //syntax
 
 const array_name = [item1, item2, ...];
-
 //Formats
 
 //Format1
