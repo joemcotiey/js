@@ -9,7 +9,6 @@
 #This JSON syntax defines an employees object: an array of 3 employee records (objects):
 
 {
-
 "employees":[
   
   {"firstName":"John", "lastName":"Doe"},
