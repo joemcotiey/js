@@ -5,7 +5,6 @@
 #There are 9 ways to create a new date object:
 
 syntax
-
 new Date()
 
 new Date(date string)
